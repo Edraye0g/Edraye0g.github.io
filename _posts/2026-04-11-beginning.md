@@ -2,7 +2,7 @@
 layout: post
 title: "Anxiety and Impairment of brain function"
 date: 2026-04-11
-categories: Neuroscience
+categories: neuroscience
 ---
 
 ## Keywords 
