@@ -17,7 +17,8 @@ Human brain always tries to predict the next move. While driving, it is necessar
 
 ## TSAVO
 The specialized experiment called TSAVO or Threat of Shock with Auditory Volatility Oddball. It is designed for participants to be involved in 4 distinct mental landscapes while undergoing fMRI. These landscapes are taken on two levels of threat: **Environmental stability** (Stable vs Volatile) and **Threat Condition** (Safe vs threat). The environmental stability was designed for individuals to listen to short (50ms) and long (100ms) tones. Stable meaning the probability of short and long tones are held at constant. Volatile reverses the predictability three times during one block. For threat, electrodes were attached on the individual. The baseline was detected before the experiment with uncomfortable but painless shock. Safe condition meant that individuals were given a cue that there will be **no** shock. On the contrary, threat meant the opposite of safe.   
-** LANDSCAPES**  
+
+**LANDSCAPES**  
 1. Safe and Stable: The environment was predictable. In the experiment there was an 80/20 chances of short/long tones. No shocks were given to individuals. 
 2. Safe and volatile: Rules of the tone reversed unpredictably. 
 3. Threat and stable: The tones were unpredictable but cue warned to get prepare for shock.
