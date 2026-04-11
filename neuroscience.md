@@ -1,7 +1,13 @@
+
 ---
 layout: page
-title: "Neuroscience"
+title: Neuroscience
 ---
 
-- [Anxiety and Impairment of Brain Function](/2026-04-11-beginning.md)
-- 
+{% assign posts = site.categories.neuroscience %}
+{% for post in posts %}
+  <article>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.date | date: "%b %d, %Y" }}</p>
+  </article>
+{% endfor %}
