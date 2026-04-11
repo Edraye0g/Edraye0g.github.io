@@ -3,7 +3,7 @@ layout: page
 title: "Categories"
 ---
 
-## Neuroscience
+## [Neurosciene](/_posts)
 - [Anxiety and Imparement of Brain Function](/_posts/2026-04-11-beginning.md)
 
 ## Bioinformatics 
