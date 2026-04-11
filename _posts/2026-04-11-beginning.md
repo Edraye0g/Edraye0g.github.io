@@ -29,10 +29,11 @@ The **goal** is to see whether the **hypersensitivity** theory is correct or the
 
 ## Decoding the Brain Signals
 To get, which one of the theories are correct, there’s a sophisticated tool called BMS or Bayesian Model Selection. These allowed to compare nine distinct hypotheses (H0 to H8) to see which model of neural behavior best matched the data. 
+
 **Literature Based Hypotheses:** 
 -	Hypersensitivity (H1-H3): This theory says that threat increases the magnitude of neural response to unexpected stimuli. 
--	Attenuation (H2-H4): This posits that threat reduced neural response to surprise, a pattern that is found in clinical PTSD. 
-** Behaviourally-Driven Hypotheses:** these were constructed based on the patterns observed in the participants **Statistically Learning Error** data. 
+-	Attenuation (H2-H4): This posits that threat reduced neural response to surprise, a pattern that is found in clinical PTSD.
+**Behaviourally-Driven Hypotheses:** these were constructed based on the patterns observed in the participants **Statistically Learning Error** data. 
 -	Proportionality: These models tested whether neural surprise response were inversely proportional to SLE data. (proportional to behavioral accuracy)
 -	H5 and H6: These predicted that volatility-attuning remains preserved to some degree. 
 -	H7: These predicted loss of volatility-attuning with threat combined with hypersensitivity specifically in threatening volatile environment. 
