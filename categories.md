@@ -3,10 +3,9 @@ layout: page
 title: "Categories"
 ---
 
-## Neurosciene
-- [Anxiety and Imparement of Brain Function](/_posts/2026-04-11-beginning.md)
+## [Neurosciene](/neuroscience.md)
 
-## Bioinformatics 
+## [Bioinformatics](/bioinformatics.md)
 
-## Unhinged Thoughts
-- [Why are you scared?](/_posts/2026-04-11-thoughts.md)
+## [Unhinged Thoughts](/unhinged.md)
+
