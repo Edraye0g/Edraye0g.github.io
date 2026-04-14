@@ -48,7 +48,7 @@ these were constructed based on the patterns observed in the participants **Stat
 Under safe condition, participants were significantly correct at predicting the tone frequencies than in volatile ones. However, the threat-of-shock eliminated this accuracy advantage. Anxious individual lost the ability to leverage environmental stability to improve learning.
 **Neural attenuation and loss of volatility-attuning**
 The neural data strongly supported hypothesis 8 in subcortical and limbic region. This model predicted surprise evoked neural activity is highest in safe-stable condition but is attenuated under threat.
-In regions like,** thalamas, basal ganglia,insula and anterior cingulate**, brain stopped distinguishing between stable and volatile environment. 
+In regions like,**thalamas, basal ganglia,insula and anterior cingulate**, brain stopped distinguishing between stable and volatile environment. 
 The primary auditory cortex was unaffected by threat which means anxiety does not disrupt basic sensory processing but higher-order integration of emotional and statistical information. 
 Though the study find evidence of attenuation rather than hypersensitivity, the author noted that, this might be happened due to the transient nature of the anxiety induced in healthy participants compared to chronic clinical states.
 
