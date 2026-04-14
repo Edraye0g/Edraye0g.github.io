@@ -4,4 +4,9 @@ header_pages:
   - contact.md
   - posts.md
 
-  
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+title: "Paper Reviews on Neuroscience"
+description: "Academic blog reviewing papers in computational psychiatry, neuroeconomics, and bioinformatics"
+author: "Rayeed Al Mutakabbir"
