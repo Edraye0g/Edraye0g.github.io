@@ -19,6 +19,12 @@ However, the causation was established based on two different signs. The psychom
 -	As the data has significant imbalance, with healthy control group and diagnosed participants, **SMOTE** was used to balance the group to suppress any biasness towards the huge healthy control group. 
 -	Finally, **SHAP or Shapley Additive Explanation** was used to see exactly how much each specific clue (e.g. neuroticism, hopelessness or brain region volume) influenced the risk score. SHAP basically tagged a weight to any of the variable of interest based on the contribution. A positive SHAP meaning the feature pushed the value toward **future anxiety**. Negative SHAP represented the opposite.
 
+| **Pooled Anxiety** | **GAD** | **mAD**
+**Primary Driver** | psychometrics | Striatum | Mixed
+**Top Risk Feature** | neuroticism, hopelessness | caudate, pallidum | neuroticism, PAG
+**Top Protective Feature** | BNST | Insula, Mid- cingulate | Caudate 
+
+
 ## Findings:
 -	**General (Pooled) anxiety:** Predictions almost entirely relied on the psychometric evaluation. The brain MRI data didn’t improve the AUROC for general category. 
 -	**GAD:** Unlike the previous one, brain structure was a key predictor here. Larger gray matter volumes in caudate and pallidum and parts of striatum played significant role to future diagnosis. 
