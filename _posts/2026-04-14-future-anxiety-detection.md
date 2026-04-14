@@ -17,7 +17,8 @@ However, the causation was established based on two different signs. The psychom
 -	Using **leave-3-groups-out cross validation**, only five cities of data were taken to train a machine learning model and three cities of data to test on it so that the model can be generalize to new and unseen data.
 -	The machine learning model was basically a voting algorithm that included logistic regression, support vector machine and random forest. These models worked together to decide whether any 14 years old has a potential anxiety disorder or not.
 -	As the data has significant imbalance, with healthy control group and diagnosed participants, **SMOTE** was used to balance the group to suppress any biasness towards the huge healthy control group. 
--	Finally, **SHAP or Shapley Additive Explanation** was used to see exactly how much each specific clue (e.g. neuroticism, hopelessness or brain region volume) influenced the risk score. SHAP basically tagged a weight to any of the variable of interest based on the contribution. A positive SHAP meaning the feature pushed the value toward **future anxiety**. Negative SHAP represented the opposite. 
+-	Finally, **SHAP or Shapley Additive Explanation** was used to see exactly how much each specific clue (e.g. neuroticism, hopelessness or brain region volume) influenced the risk score. SHAP basically tagged a weight to any of the variable of interest based on the contribution. A positive SHAP meaning the feature pushed the value toward **future anxiety**. Negative SHAP represented the opposite.
+
 ## Findings:
 -	**General (Pooled) anxiety:** Predictions almost entirely relied on the psychometric evaluation. The brain MRI data didn’t improve the AUROC for general category. 
 -	**GAD:** Unlike the previous one, brain structure was a key predictor here. Larger gray matter volumes in caudate and pallidum and parts of striatum played significant role to future diagnosis. 
