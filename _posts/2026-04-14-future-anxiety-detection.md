@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: "Predicting Possible Anxiety using Machine Learning"
+date: 2026-04-14
+categories: neuroscience
 ---
 
 ## Keywords: 
