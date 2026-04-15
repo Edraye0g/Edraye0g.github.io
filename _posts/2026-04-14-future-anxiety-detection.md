@@ -35,4 +35,4 @@ __ | **Pooled Anxiety** | **GAD** | **mAD**
 Mostly, personality trait is the main decoder that has clear connection with the future diagnosis. With recent development and improvement of AI, it is possible to go beyond that. In the world of social media, where each day we have new trends to compare us. It is possible for people to generate new types of anxiety symptoms out of bolt from the blue. However, the study can be taken further with advancement of more fMRI images and better decision-making model of attention based deep learning. Accuracy may drop but there could be significantly better chances of proper diagnosis and could also detect outliers. 
 
 ## References
--	[ Anxiety onset in adolescents: a machine-learning prediction | Molecular Psychiatry)](https://www.nature.com/articles/s41380-022-01840-z)
+-	[ Anxiety onset in adolescents: a machine-learning prediction, Molecular Psychiatry)](https://www.nature.com/articles/s41380-022-01840-z)
