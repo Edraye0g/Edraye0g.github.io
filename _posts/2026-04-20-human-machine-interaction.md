@@ -11,7 +11,7 @@ What really happened here? Human is a social animal. Hence, human care about the
 ## Experiment:
 The experiment talked about two distant hypotheses. The deterrence and the loophole. Deterrence meaning the decreasing of the percentage of cheat due to the understanding that machine is flawless and being inevitable is close to zero. On the other hand, the loophole tells us a story of how human to human interaction is so important for driving our behavior. As machines have no social connection, lying meant zero social image cost, shame or guilt.
 The experiment was done with the **mechanics of deception**. The choice vs verification test. 
-
+![Fig: Flowchart of the deception game](/assests/image.png)
 
 
 
