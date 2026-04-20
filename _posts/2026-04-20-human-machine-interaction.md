@@ -15,7 +15,8 @@ The experiment was done with the **mechanics of deception**. The choice and veri
 ![Fig: Flowchart of the deception game](/assests/image.png)
 
 The experiment contains 4 categories of testing on the basis of transparency vs entity.
-_ | **Human** | **Machine**
+
+_ | **Human** | **Machine** 
 **Transparent** | Participants see exact audit probabilities and verified by human | participants see exact probabilities but verified by an algorithm 
 **Ambiguous** | Participants are only told a human will make decisions 1 and 2 Probabilities are hidden. | Verified by algorithm but hidden probabilities. 
 
