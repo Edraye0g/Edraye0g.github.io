@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inferring Others Strategical Thinking"
-date: 2026-04-26
+date: 2026-04-25
 categories: neuroscience
 ---
 
