@@ -15,10 +15,12 @@ Static study is the simple study of false-belief and theory of mind. Which tells
 ## CHASE 
 Cognitive Hierarchy assessment integrated cognitive neuroscience learning rules with behavioral economics bounded rationality. Here, participants played RPS or Rock-Paper-Scissor. For mathematical modelling, the game was kept simple by only picking 1,2 and 3 instead of rock-paper-scissors. *Winning rule:* Participants beat opponents if the number they chose comes just before their opponent’s number in a circle (e.g., 2 beats one, 1 beats 3). If the number is same then the game is tie. 
 To win this type of game, complete randomness is crucial. However, Nash equilibrium begs to differ. It states that no human is complete random. To some extent, human always follow a specific pattern. If opponents get the strategy or exploit the habit, they can beat the participant. This brings us closer to the strategic level of reasoning. 
-**Strategic Level** | **Meaning**
-Level 0 | Follows *Markovian updating* where belief update occurs based on only current state. 
-Level 1 | Assumes opponent is at level 0 and tries to outsmart the simplest pattern.
-Level 2 | Assumes opponent is at level 1. (e.g., What opponent thinks I am doing and exploit with a counter move)
+
+|**Strategic Level** | **Meaning** |
+|Level 0 | Follows *Markovian updating* where belief update occurs based on only current state. |
+|Level 1 | Assumes opponent is at level 0 and tries to outsmart the simplest pattern. |
+|Level 2 | Assumes opponent is at level 1. (e.g., What opponent thinks I am doing and exploit with a counter move) |
+
 *Participants played with both human and machine/algorithm. They were asked later about the humanness of their opponent. This is important because adaptive mentalization with the perception of genuine interaction with human. This was validated so that participants do not assess a simple machine-learning or non-social problem.*
 If a participant think they are simply playing with a computer program, the whole study will just be a static puzzle to be solved. By ensuring the humanness, researchers ensured that participants are actively jumping into recursive reasoning (e.g., “I think that you think…”). Humanness is vital in defining non-strategic play, which is the baseline for the entire CHASE model. researcher further validated that humans naturally track action frequencies to define a non-strategic opponent. Since the CHASE model assumes that human builds their strategy on top of their opponent’s level of reasoning, humanness is what makes the higher-level recursive steps possible. 
 **Trial Sequence:** Each round of the game, fMRI session followed a three phase sequence.
