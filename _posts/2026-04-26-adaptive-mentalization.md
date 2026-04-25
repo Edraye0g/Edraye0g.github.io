@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inferring Others Strategical Thinking | Mentalization"
+title: "Inferring Others Strategical Thinking"
 date: 2026-04-26
 categories: neuroscience
 ---
