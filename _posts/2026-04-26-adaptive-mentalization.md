@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: "Inferring Others Strategical Thinking | Mentalization"
+date: 2026-04-26
+categories: neuroscience
 ---
 
 Shirts tucked in. Eyes are on the ball. The whole stadium cheering. Nervous but unnerved. Tightening the gloves. Performing the penalty ritual, goalkeeper looks at the striker. His body language, the prior data, the body posture, direction the ball stripes are, everything indicates that the shot will be taken for the top-left bin. Goalkeeper taps the bar over him and spreads his body to fly all the way to the top-left post. The whistle blows and GOOOAAALLLL! 
