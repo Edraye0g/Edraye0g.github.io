@@ -12,7 +12,7 @@ What really happened here? Human is a social animal. Hence, human care about the
 The experiment talked about two distant hypotheses. The deterrence and the loophole. Deterrence meaning the decreasing of the percentage of cheat due to the understanding that machine is flawless and being inevitable is close to zero. On the other hand, the loophole tells us a story of how human to human interaction is so important for driving our behavior. As machines have no social connection, lying meant zero social image cost, shame or guilt.
 
 The experiment was done with the **mechanics of deception**. The choice and verification test. A number was taken from a urn of 100 cards from 1 to 6. There was 95 percent of number 2 and the rest is the remaining number. It shows clear probablity of a drawn card being 2. The card was reported into a computer. The formula says that the reward/payout is reported number * 15 euros. However, there's a catch. There will be verification. Another lottery will be done choosing number from 1 to 10. If the drawn number is greater than the reported number, card will not be checked. Direct payoff. If the card is equal or smaller than the reported number, the actual card will be checked. But, it is not the end. If the card is equal to the reported number, direct payoff. otherwise, there will be another lottery. A new number will be drawn from the lottery between 1 to the reported number. If the number is equal or less, direct payoff. If not, there will be reduced payoff.
-![Fig: Flowchart of the deception game](assests/FlowchartLot.jpg)
+![Fig: Flowchart of the deception game](/assests/flowchartlot.png)
 
 The experiment contains 4 categories of testing on the basis of transparency vs entity.
 
