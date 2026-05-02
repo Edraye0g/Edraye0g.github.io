@@ -21,7 +21,7 @@ The experiment consists of 3 phases,
 -	**Choice phase:** Participants were asked to gamble on a probability pie. The red slice showed the chances of loss, the green slice showed chances of gain. To make it more ambiguous, there was also a grey slice which meant this could be anything between gain and loss. They were given two choices. Whether to act or not act. 
 -	**Delegation phase:** After two days, the individuals were called again. This time they were asked to work as a group of 4 including him. A new choice was added. Act, Not Act and *Defer.* There was informational advantage in the group. The members were shown different version of the same pie. This means two persons together has a more strategic winning percentage than one. The individual with the power of choice has the power to act or not act and defer. Defer means to pass it to the group for decision making. 
 
-![](/assests/res1.png)
+![](/assests/Res1.png)
 
 The goal of the experiment was to find correlation between different traits of behavior, how individuals defer, how certainty and subjective value has effect over decision making, how responsibility of a group generates high certainty demand (psychological cost) while making decision and most importantly how the neurobiology works in this case?
 
