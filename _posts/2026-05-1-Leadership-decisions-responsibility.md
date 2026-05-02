@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Anxiety and Impairment of brain function"
-date: 2026-04-11
+title: "Leadership | Risk vs Responsibility"
+date: 2026-05-01
 categories: neuroscience
 ---
 
@@ -45,8 +45,12 @@ Using Stochastic Dynamic Causal Modeling, a crucial question was answered and th
 
 **Deferral threshold:** It means when the defer choice will be taken by an individual. It is shown that when the stakes are high. Participants leaned towards more aversion of responsibility. If only the chances of gain or the certainty is higher, then they act based on their own judgement. The researchers came to a conclusion that, when there is other’s stake, participants create higher demand for certainty compared to self. This shows how unchanged subjective value generates different threshold values for self vs group. 
 
+![](/assests/res4.png)
+
 
 This model was used to predict whether the evaluation has capacity for out-of-sample real-life manifestation. Information was taken using a set of questionnaires and the role individuals are playing in real-life. The result was fascinating. Correlation between predicted and observed shift in deferral threshold based on neural activity was 0.79. correlation between predicted and observed leadership scores for the fMRI sample when using the combined neural and behavioral model was 0.47. Correlation between predicted vs observed leadership scores for fMRI sample when using only parameters estimated from the original behavior-only sample was 0.44. This shows the measures of responsibility aversion identified in the lab are robust predictors of both cognitive shift people experience under responsibility and their real-world leadership potential. 
+
+![](/assests/res3.png)
 
 #  References
 [Computational and neurobiological foundations of leadership decisions](https://www.science.org/doi/10.1126/science.aat0036)
