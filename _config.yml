@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-slate
 header_pages:
   - about.md
   - contact.md
