@@ -5,6 +5,7 @@ header_pages:
   - posts.md
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 title: "Literature Reviews"
