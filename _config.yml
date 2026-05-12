@@ -1,4 +1,4 @@
-theme : cayman
+theme: jekyll-theme-hacker
 header_pages:
   - about.md
   - contact.md
