@@ -13,8 +13,10 @@ You haven’t studied the whole semester makes you a complete stupid from a cert
 ## Rascorla-Wagner Model
 The paper from *Journal of Neurobiology* naming [*Bayesian reinforcement learning: A basic overview*](https://www.sciencedirect.com/science/article/pii/S1074742724000352?via%3Dihub) shows the exact way of how human brain learn with different angles. It first talked about the RW model also known as **Rescorla-Wagner** model. This model shows that human brain always predicts an outcome/reward linearly and updates the system with errors following. If there’s no error, there’s no belief update. But, modern model like **Kalman filter** establishes certain scenarios based on uncertainty. 
 Uncertainty occurs from two distinct phenomena as discussed earlier. And the Bayesian brain reacts to it in two different mathematical modelling:
+
 **Generative model** | Brains internal assumption system based on the surroundings or how the environment is operating
 **Recognition model** | This is how human brain perceives uncertainty and prior beliefs update to posterior belief.
+
 ![](/assests/unc2.png)
 
 ## Kalman Filter
