@@ -29,11 +29,24 @@ But, the Kalman filter is basically a trial-trial process and the neurobiology o
 
 ## Latent Cause Model 
 However, the paper points to a very interesting story. Think of it like watching a play. There are different scenes which represents the latent cause of learning. The first scene introduces a garden scene. The scene reflects happiness and joy and pure jolliness. When the scene ended, there was a round of applause. When the 5th scene came onto play, the scenario was intense and emotional. A grooving pain. The act was so good but no one applauded this time. 
-![](/assests/unc6.png,/assests/unc7.png)
+![](/assests/unc6.png)
 This happened due to the tendency on human brain perceiving the structure of the environment AKA **Structural learning.** The brain understands the hidden context using latent cause model. It adapts the understanding while also retaining the past memories. It adjusts new expectations and interpretation of the world in a newer way.
 
 ## The Neurobiology
-![](/assests/unc8.png)
+**Processing Uncertainty and Volatility**
+Several areas are implicated in how the brain computes and responds to different types of uncertainty:
+**Frontal and Cingulate Cortices:** The cingulate cortex, rostrolateral prefrontal cortex (frontal pole), and dorsolateral prefrontal cortex are central to uncertainty computations. Specifically, the cingulate cortex is associated with processing both uncertainty and environmental volatility. 
+**Neuromodulatory Systems:** The cholinergic (acetylcholine), dopaminergic (dopamine), and noradrenergic (norepinephrine) systems play critical roles in uncertainty and volatility processing.
+**Mesolimbic Areas:** These areas are also linked to the processing of uncertainty and volatility
+
+**Reward Prediction and Learning**
+**Dopaminergic System:** This system is heavily involved in uncertainty computations. Specifically, the prediction error signal—which is the difference between experienced and predicted outcomes—has been closely associated with the activity of dopamine.
+
+**Structure Learning and Cognitive Maps**
+For more sophisticated tasks involving relational knowledge and the internal representation of a task's structure (often called a "cognitive map"), other regions become essential:
+**Hippocampal-Entorhinal System:** This system is critical for representing relational knowledge and the underlying dimensions of a task.
+**Ventromedial Prefrontal Cortex (vmPFC):** Like the hippocampal system, the vmPFC plays a vital role in representing the structure of task dimensions and sophisticated relational information.
+**Orbitofrontal Cortex (OFC):** The OFC is involved in representing a cognitive map of state space and learning predictions regarding transitions between different states in an environment
 
 ## Bad habit
 Now the most important question arises. How is bad habit processed in the brain even though knowing that this is bad? 
