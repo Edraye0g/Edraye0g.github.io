@@ -10,7 +10,7 @@ However, there are few things to observe. One is habit. Secondly, there’s stra
 ![](/assests/unc01.png)
 You haven’t studied the whole semester makes you a complete stupid from a certain perspective. You may not study because you have strategized and predicted the reward of not studying. Maybe a dopamine surge for doing something else that took you away from exam tension. This is one way to put it. Maybe, you are planning on something else and sure of it. Think of it like, if you are certain that you will get a good job and good salary from a office, why will you study? Ultimately, the world wants workers not knowledge and wisdom. However, there’s another angle and that is bad habit.
 
-## Rascorla-Wagner Model
+## Rescorla-Wagner Model
 The paper from *Journal of Neurobiology* naming [*Bayesian reinforcement learning: A basic overview*](https://www.sciencedirect.com/science/article/pii/S1074742724000352?via%3Dihub) shows the exact way of how human brain learn with different angles. It first talked about the RW model also known as **Rescorla-Wagner** model. This model shows that human brain always predicts an outcome/reward linearly and updates the system with errors following. If there’s no error, there’s no belief update. But, modern model like **Kalman filter** establishes certain scenarios based on uncertainty. 
 Uncertainty occurs from two distinct phenomena as discussed earlier. And the Bayesian brain reacts to it in two different mathematical modelling:
 
@@ -33,6 +33,7 @@ But, the Kalman filter is basically a trial-trial process and the neurobiology o
 ## Latent Cause Model 
 However, the paper points to a very interesting story. Think of it like watching a play. There are different scenes which represents the latent cause of learning. The first scene introduces a garden scene. The scene reflects happiness and joy and pure jolliness. When the scene ended, there was a round of applause. When the 5th scene came onto play, the scenario was intense and emotional. A grooving pain. The act was so good but no one applauded this time. 
 ![](/assests/unc6.png)
+
 This happened due to the tendency on human brain perceiving the structure of the environment AKA **Structural learning.** The brain understands the hidden context using latent cause model. It adapts the understanding while also retaining the past memories. It adjusts new expectations and interpretation of the world in a newer way.
 
 ## The Neurobiology
