@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: "Pyschopathology and Connectivity Analysis"
+date: 2026-05-31
+categories: neuroscience
 ---
 
 Scientists used to think specific brain parts handled specific jobs (like one area for memory, another for fear). Now we know thinking and feeling rely on teams of brain regions working together—like players passing a ball in a game. New brain-scanning tools (fMRI, EEG, MEG) let us see how these teams communicate. But to understand mental illness, we need more than just if two regions chat—we need to know who influences whom, and when. That’s where "effective connectivity" comes in.
