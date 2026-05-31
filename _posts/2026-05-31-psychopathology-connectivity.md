@@ -16,6 +16,7 @@ Imagine brain regions as people in a meeting:
 - Or how a task (like remembering words) changes how Area A talks to Area B (Psychophysiological Interaction),
 - Or builds a testable model of how brain cells might actually interact (Dynamic Causal Modeling).
 This directionality matters because mental illness often isn’t about broken parts—it’s about broken teamwork.
+
 ![](/assests/map1.png)
 ## What We’re Learning: Real Examples from Illness
 Researchers using these methods found clear patterns:
