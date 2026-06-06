@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Favoring Inner-Circle"
 date: 2026-04-20
 categories: neuroscience
 ---
