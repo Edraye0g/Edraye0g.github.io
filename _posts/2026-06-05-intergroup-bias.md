@@ -56,7 +56,7 @@ This mechanism involves generalizing the behavior of one individual to other mem
 The study’s findings were supported by several behavioral metrics beyond simple zapping rates:
 **Zapping and Path-Crossing**
 
-Metric | Ingroup Observation | Outgroup Observation 
+**Metric** | **Ingroup Observation** | **Outgroup Observation** 
 Zap Rate | Significantly lower, even if the ingroup member was a zapper | Significantly higher, even if the outgroup member was an avoider 
 Path-Crossing | Participants were more likely to move into a vulnerable position near an ingroup member | Participants avoided sharing a row/column with outgroup members, fearing a zap 
 
@@ -71,10 +71,10 @@ Outgroup Zapping: Frequently interpreted as having "harmful intent" (wanting to 
 **Model Fit Comparison**
 The research compared three computational models to determine which best explained participant behavior:
 
-Model | Description | WAIC (Lower is Better) 
-P Model | Prior effects only | 4251.06 
-PL Model | Prior + Learning mechanisms | 4211.63 
-PLA Model | Prior + Learning + Group Attribution | 4206.67 
+**Model** | **Description** | **WAIC (Lower is Better)** 
+**P Model** | Prior effects only | 4251.06 
+**PL Model** | Prior + Learning mechanisms | 4211.63 
+**PLA Model** | Prior + Learning + Group Attribution | 4206.67 
 
 The PLA Model was the most accurate, confirming that all three asymmetric mechanisms contribute to the persistence of bias.
 
