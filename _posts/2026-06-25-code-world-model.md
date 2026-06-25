@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: "The Generalist Gambit"
+date: 2026-06-25
+categories: algorithm
 ---
 
 Most ongoing research on Large Language Models (LLMs) playing games treats the model like an "intuitive player"—you ask it what move to make, and it pulls from its vast training data to pick what *seems* right. It's like asking a chess grandmaster to play blindfolded, relying purely on pattern recognition. This "LLM as policy" approach works... to a point. But strategic mastery often requires deep multi-step lookahead, the kind of methodical thinking that doesn't emerge from pattern-matching alone. Think about it: even the world's best human chess players calculate 10 moves ahead, not just react to the immediate board state.
