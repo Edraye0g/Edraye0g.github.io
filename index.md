@@ -7,6 +7,10 @@ layout: page
     <h2>Neuroscience</h2>
     <p>Exploring brain function, cognition, and neural systems.</p>
   </a>
+  <a href="/algorithm" class="category-card">
+    <h2>Algorithms</h2>
+    <p>Understanding how different algorithms work.</p>
+  </a>
   <a href="/bioinformatics" class="category-card">
     <h2>Bioinformatics</h2>
     <p>Computational approaches to biological data.</p>
