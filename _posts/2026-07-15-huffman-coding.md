@@ -80,6 +80,6 @@ To see this optimization in action, consider the performance breakdown using the
 The evolution from individual character tracking to grouped character encoding represents a massive leap forward for signal processing and modern research applications. By designing an algorithm that first aggregates and then hierarchically splits characters, this optimized method simultaneously slashes total bit requirements and cuts down the structural complexity of the decoding tree. It delivers a streamlined, high-performance solution tailored for today's data-heavy technological landscapes.
 
 ### Sources
-[1. An Optimized Huffman’s Coding by the method of 
-Grouping](https://arxiv.org/pdf/1607.08433)
+[1. An Optimized Huffman’s Coding by the method of Grouping](https://arxiv.org/pdf/1607.08433)
+
 [2. Compression and Huffman Coding](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/388115265a456321c4a5d19dc9e05281_MIT6_046JS12_lec19.pdf)
