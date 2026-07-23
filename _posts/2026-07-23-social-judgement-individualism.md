@@ -50,24 +50,10 @@ Here is how the cultural spectrum handles daily social friction, alongside how g
 
 | Metric / Dimension | Low Individualistic Morality | High Individualistic Morality | 20-Year Global Shift (2000 vs. 2024) |
 | --- | --- | --- | --- |
-| **Baseline Permissiveness** | Strict overall baseline
-
- | High overall freedom (Liberty weight)
-
- | **More Permissive** overall ($\beta = 0.01, p = 0.004$) |
-| **Vulgar Behaviors** (Curse, Kiss) | High penalty (Purity prioritized)
-
- | High tolerance (Purity discounted)
-
- | **Stricter** ($\beta = -0.03, p < 0.001$) |
-| **Inconsiderate Acts** (Argue, Noise) | Moderate tolerance
-
- | Severe penalty (Care prioritized)
-
- | **Stricter** ($\beta = -0.04, p < 0.001$) |
-| **Senseless/Odd Acts** (Reading in cinema) | Moderate tolerance
-
- | Severe penalty ("Common-is-moral" heuristic) | Context-dependent shifts |
+| **Baseline Permissiveness** | Strict overall baseline| High overall freedom (Liberty weight)| **More Permissive** overall ($\beta = 0.01, p = 0.004$) |
+| **Vulgar Behaviors** (Curse, Kiss) | High penalty (Purity prioritized)| High tolerance (Purity discounted)| **Stricter** ($\beta = -0.03, p < 0.001$) |
+| **Inconsiderate Acts** (Argue, Noise) | Moderate tolerance| Severe penalty (Care prioritized)| **Stricter** ($\beta = -0.04, p < 0.001$) |
+| **Senseless/Odd Acts** (Reading in cinema) | Moderate tolerance| Severe penalty ("Common-is-moral" heuristic) | Context-dependent shifts |
 
 > **Core Insight:** As societies modernize, their baseline rules loosen up—giving individuals wide latitude to exist. However, individualistic cultures clamp down *harder* on behavior that infringes on others' peace. Liberty grants you the right to wear what you want, but Care revokes your right to be a public nuisance.
 > 
