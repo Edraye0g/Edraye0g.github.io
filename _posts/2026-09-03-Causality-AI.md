@@ -35,13 +35,13 @@ There are two frameworks formally responsible for causal study.
 **Rubin Causal Model**
  This is also known as the potential outcomes framework. It explains that to understand causality, we must understand what would happen if the event never have occurred (a different scenario). This would explain if the causation-correlation claim justifies or not. But there is some limitation. At a time, it is only possible to observe one potential outcome. Because, multiple outcomes cannot be seen at the same time. This works best for binary outcomes.
 
-![](/assests/causal4.png)
+![](/assests/causal4.jpg)
 
 **Structure Causal Model**
  This is refurbishes RCM by structurally explaining and connecting how variables influence each other. It is formal than Rubin's model. It uses mathematical algorithm and directed graphs to map the causation. Variables are stated as exogenous (background factor impacting hidden outcome), endogenous (Variable inside the system), structural function (how endogenous variable is generated) and probability distribution.  
 
-![](/assests/causal5.png)
-___
+![](/assests/causal5.jpg)
+
 
 Judea Pearl, who made the SCM, positioned himself by saying that any probabilistic model can be transformed into a deterministic model by adding unobserved "response variables." But Dawid criticized his stance. He rejected that assumption of universal causal determinism. Pearl assumes that world is causally deterministic.Pearl extends the SCM by adding response variables in the model to compute counterfactuals. He inputs hidden variables into the system and made that deterministic. But Dawid said, this is not possible or he used the specific words like "Unwanted Metaphysical Assumption." If response variables are realistic, then the Laplacian deterministic framework Pearl used has already failed. This means already a non-deterministic model exists. This is a sign of unverified property of real world. He argues against relying on response/hidden variables.   
 
