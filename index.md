@@ -11,6 +11,10 @@ layout: page
     <h2>Algorithms</h2>
     <p>Understanding how different algorithms work.</p>
   </a>
+  <a href="/complex" class="category-card">
+    <h2>Complex Science</h2>
+    <p>Investigating complexity of the systems.</p>
+  </a>
   <a href="/bioinformatics" class="category-card">
     <h2>Bioinformatics</h2>
     <p>Computational approaches to biological data.</p>
