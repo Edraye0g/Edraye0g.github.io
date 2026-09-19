@@ -65,3 +65,6 @@ This meta-theoretic profiling reframes the long-standing **"representation wars"
 ### Prospects: Building Scientific Edifices
 
 By bringing implicit metaphysical commitments into clear focus, complexity science offers a transformative path forward for psychological research. Rather than remaining trapped in stagnant empirical standoffs or generating endless piles of isolated data "bricks," researchers can align their theoretical assumptions with appropriate, ecologically valid methodologies. Embracing meta-theoretic clarity fosters constructive theoretical pluralism, allowing psychological science to move beyond fragmented observation toward the construction of enduring, integrative theoretical edifices.
+
+### Sources 
+[Nuancing psychological research with complexity: The case of embodied cognition and ecological dynamics](https://www.sciencedirect.com/science/article/pii/S0001691826014253)
