@@ -8,5 +8,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 title: "Literature Reviews"
-description: "Academic blog reviewing papers in computational psychiatry, neuroeconomics, and bioinformatics"
+description: "Academic blog reviewing papers in computational psychiatry, neuroscience, and bioinformatics"
 author: "Rayeed Al Mutakabbir"
