@@ -1,11 +1,9 @@
-
 ---
 layout: post
 title: "AI and Bypassing Reasoning"
 date: 2026-09-25
 categories: neuroscience
 ---
-
 
 The human mind has a sort of complex architecture. From supporting a football team to calculating a chip shot or a curling ball of Roberto Carlos, the human brain takes the opportunity to step back and see the bigger picture of how any process works mathematically. Without this, *we all live with the animal*, famously said by Winston Scott from John Wick trilogy. *Daniel Kahneman* illustrates this with dual-system architecture, where system 1 is the short, less calculative, mostly subjective judgment process. These are the unconscious thoughts filled with cognitive biases. On the other hand, system 2 is the high-end calculative approach where the brain takes up the job of reasoning, deep-diving into the sea of scenarios, check and balances to come to a conclusion. 
 
