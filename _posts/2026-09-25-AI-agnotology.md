@@ -15,8 +15,7 @@ According to complexity science, cognition and consciousness move beyond the bod
 
 Over time, AI has proven the arguable interaction dynamics of cognitive systems. Consciousness extends beyond the physical boundaries of the brain and interacts with instruments in the surroundings, like using a hammer. AI has introduced us to System 3 of Kahneman's theory. System 3 is like a bypassing mechanism of the heavy-lifting reasoning human brain does. Looking at Nolan's film and researching what time dilation is, or how a reverse bullet forms reverse entropy and then makes the bullet more fatal to the body (from Interstellar and Tenet). If you want to learn them, you open up YouTube videos or go to the library and search for books on space and entropy. After the introduction of AI, the possibilities have changed. With almost anyone can educate themselves onto anything. AI basically works on numbers and weights and neural networks. The processes are same as a neural network in human brain but heavily data-driven and more precise. If human brain is not sure about something else, when he is expressing, the body language will eventually show that reflection and words will stutter. AI is very confident with its answer. Outputs are delivered with declarative authority, lacking the socio-linguistic pauses, hesitation markers, hedges, or vocalized doubts typical of human experts. System 3 presents complete solutions across diverse fields without vocalizing internal uncertainty, operational limits, or missing contextual boundaries.
 
-!
-[](/assests/cogsur1.png)
+![](/assests/cogsur1.png)
 
 But, AI can be tools like a hammer or YouTube? Can't they?
 
