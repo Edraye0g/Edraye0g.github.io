@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Information Overhaul In Agentic Systems."
+date: 2026-10-09
+categories: complex
+---
 
 The nonlinear nature and synergetics of complex system such as global climate system, bio-diversity ecosystems represents a scientific hurdle. The complex system mostly approached by two different axes. The empirical standing of high volume and high velocity big data and against it is the computational infrastructure to process system. Yet, with the advancement of machine learning, deep neural networks and data analytics, complexity science makes zero sense when it faces the *complexity* of predictive modeling. How can you imply predictive modeling when the system is nonlinear as well as state-dependent. 
 
