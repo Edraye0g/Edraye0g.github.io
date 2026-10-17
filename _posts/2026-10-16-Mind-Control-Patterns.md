@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: "Understanding Strategic Advantage in Speech"
+date: 2026-10-17
+categories: neuroscience
 ---
 
 Have you ever tried to put your opinion on the table as a group and got manipulated by the one with the age-experience? Have you ever wanted to order something but people on the other side of the table said something and you ordered the things he/she wanted? This is normal actually. Some people literally has the voice of authority. They have a way of talking, word emphasizing and precise word placement in the sentence. This is how actually they change the internal belief system of the listeners. 
