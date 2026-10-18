@@ -3,33 +3,50 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
 
 <style>
-  :root {
-    /* Light mode */
-    --minima-base-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    --minima-heading-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
-    --minima-text-color: #1f2328;
-    --minima-background-color: #ffffff;
-    --minima-link-color: #0969da;
-    --minima-brand-color: #0969da;
-    --minima-border-color-01: #d0d7de;
+  /* Category cards */
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .category-card {
+    display: block;
+    padding: 1.5rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.2s;
+  }
+  .category-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .category-card h2 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.2rem;
+  }
+  .category-card p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #666;
   }
 
-  @media (prefers-color-scheme: dark) {
-    :root {
-      /* Dark mode */
-      --minima-text-color: #e6edf3;
-      --minima-background-color: #0d1117;
-      --minima-link-color: #58a6ff;
-      --minima-brand-color: #58a6ff;
-      --minima-border-color-01: #30363d;
-      --minima-code-background: #161b22;
-    }
+  /* Footer */
+  .site-footer {
+    padding: 1.5rem 0;
+    text-align: center;
+    font-size: 0.85rem;
+    color: #aaa;
+    border-top: 1px solid #e8e8e8;
   }
-
-  /* Optional: tweak body text size/line height */
-  body {
-    font-size: 16px;
-    line-height: 1.7;
+  .site-footer .footer-col-wrapper,
+  .site-footer .footer-col {
+    display: none;
+  }
+  .site-footer::after {
+    content: "© 2026 Rayeed Al Mutakabbir";
+    display: block;
   }
 </style>
 
