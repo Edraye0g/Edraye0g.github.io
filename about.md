@@ -195,7 +195,7 @@ permalink: /about/
 <h2 class="portfolio-section-heading"><span>🛠️</span> Technical Skills &amp; Methodologies</h2>
 
 <div class="skills-category-box">
-  <h4>Programming &amp; Quantitative Computing</h4>
+  <h3>Programming &amp; Quantitative Computing</h3>
   <div class="tag-cloud">
     <span class="badge badge-blue">Python (NumPy, SciPy, Matplotlib, Pandas)</span>
     <span class="badge badge-purple">MATLAB / GNU Octave</span>
@@ -206,7 +206,7 @@ permalink: /about/
 </div>
 
 <div class="skills-category-box">
-  <h4>Neuroimaging &amp; Biosignal Analysis</h4>
+  <h3>Neuroimaging &amp; Biosignal Analysis</h3>
   <div class="tag-cloud">
     <span class="badge badge-purple">fNIRS Hemodynamic Modeling</span>
     <span class="badge badge-blue">EEG Time-Frequency Decomposition</span>
@@ -217,7 +217,7 @@ permalink: /about/
 </div>
 
 <div class="skills-category-box">
-  <h4>Theoretical &amp; Computational Frameworks</h4>
+  <h3>Theoretical &amp; Computational Frameworks</h3>
   <div class="tag-cloud">
     <span class="badge badge-blue">Bayesian Inference</span>
     <span class="badge badge-purple">Hierarchical Gaussian Filter (HGF)</span>
@@ -228,7 +228,7 @@ permalink: /about/
 </div>
 
 <div class="skills-category-box">
-  <h4>Development &amp; Research Tools</h4>
+  <h3>Development &amp; Research Tools</h3>
   <div class="tag-cloud">
     <span class="badge badge-purple">Linux / WSL</span>
     <span class="badge badge-blue">Git &amp; GitHub</span>
