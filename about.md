@@ -7,7 +7,12 @@ permalink: /about/
 <!-- Portfolio Hero Header -->
 <div class="portfolio-hero">
   <div class="portfolio-avatar-wrapper">
-    <div class="portfolio-avatar-monogram">RM</div>
+    <div class="portfolio-avatar-wrapper">
+  <img
+    src="/assets/Al Mutakabbir,M. R.jpg"
+    class="portfolio-avatar"
+  >
+</div>
   </div>
   <div class="portfolio-hero-info">
     <h1 class="portfolio-name">Rayeed Al Mutakabbir</h1>
