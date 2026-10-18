@@ -2,47 +2,47 @@
   <div class="wrapper">
     <div class="footer-grid">
       <div class="footer-brand">
-        <h3 class="footer-title">{{ site.title | default: "Literature Reviews" | escape }}</h3>
-        <p class="footer-description">{{ site.description | default: "Academic blog reviewing papers in computational psychiatry, neuroscience, and bioinformatics" | escape }}</p>
-        <p class="footer-author">By <strong>{{ site.author | default: "Rayeed Al Mutakabbir" | escape }}</strong></p>
+        <h3 class="footer-title">{{ site.title | default: 'Literature Reviews' | escape }}</h3>
+        <p class="footer-description">{{ site.description | default: 'Academic blog reviewing papers in computational psychiatry, neuroscience, and bioinformatics' | escape }}</p>
+        <p class="footer-author">By <strong>{{ site.author | default: 'Rayeed Al Mutakabbir' | escape }}</strong></p>
       </div>
 
       <div class="footer-nav-col">
         <h4>Navigation</h4>
         <ul>
-          <li><a href="{{ "/" | relative_url }}">Home</a></li>
-          <li><a href="{{ "/posts" | relative_url }}">All Posts</a></li>
-          <li><a href="{{ "/about" | relative_url }}">About</a></li>
-          <li><a href="{{ "/contact" | relative_url }}">Contact</a></li>
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/posts' | relative_url }}">All Posts</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
         </ul>
       </div>
 
       <div class="footer-nav-col">
         <h4>Topics</h4>
         <ul>
-          <li><a href="{{ "/neuroscience/" | relative_url }}">Neuroscience</a></li>
-          <li><a href="{{ "/algorithm/" | relative_url }}">Algorithms</a></li>
-          <li><a href="{{ "/complex/" | relative_url }}">Complex Science</a></li>
-          <li><a href="{{ "/bioinformatics/" | relative_url }}">Bioinformatics</a></li>
-          <li><a href="{{ "/unhinged/" | relative_url }}">Unhinged Thoughts</a></li>
+          <li><a href="{{ '/neuroscience/' | relative_url }}">Neuroscience</a></li>
+          <li><a href="{{ '/algorithm/' | relative_url }}">Algorithms</a></li>
+          <li><a href="{{ '/complex/' | relative_url }}">Complex Science</a></li>
+          <li><a href="{{ '/bioinformatics/' | relative_url }}">Bioinformatics</a></li>
+          <li><a href="{{ '/unhinged/' | relative_url }}">Unhinged Thoughts</a></li>
         </ul>
       </div>
     </div>
 
     <div class="footer-bottom">
       <p class="footer-copyright">
-        © {{ site.time | date: "%Y" }} {{ site.author | default: "Rayeed Al Mutakabbir" | escape }}. Computational Psychiatry &amp; Neuroscience Literature.
+        © {{ site.time | date: '%Y' }} {{ site.author | default: 'Rayeed Al Mutakabbir' | escape }}. Computational Psychiatry &amp; Neuroscience Literature.
       </p>
     </div>
   </div>
-</footer>
 
-<!-- Floating Back to Top Button -->
-<button id="back-to-top" class="back-to-top" aria-label="Back to top" title="Back to top">
-  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-    <polyline points="18 15 12 9 6 15"></polyline>
-  </svg>
-</button>
+  <!-- Floating Back to Top Button -->
+  <button id="back-to-top" class="back-to-top" aria-label="Back to top" title="Back to top">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="18 15 12 9 6 15"></polyline>
+    </svg>
+  </button>
+</footer>
 
 <!-- Interactive Scripts: Theme Switcher, Reading Progress, and Back-to-Top -->
 <script>
@@ -65,7 +65,7 @@
     var progressBar = document.getElementById('readingProgressBar');
     function updateReadingProgress() {
       if (!progressBar) return;
-      var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+      var scrollTop = window.pageYOffset || document.documentElement.scrollTop || 0;
       var scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
       if (scrollHeight > 0) {
         var progress = (scrollTop / scrollHeight) * 100;
@@ -79,7 +79,7 @@
     var backToTopBtn = document.getElementById('back-to-top');
     function updateBackToTop() {
       if (!backToTopBtn) return;
-      var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+      var scrollTop = window.pageYOffset || document.documentElement.scrollTop || 0;
       if (scrollTop > 260) {
         backToTopBtn.classList.add('visible');
       } else {
