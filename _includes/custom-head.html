@@ -1,86 +1,21 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
 
-<style>
-  /* Global fonts and colors */
-  html, body {
-    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
-    font-size: 16px !important;
-    line-height: 1.7 !important;
-    color: #1f2328 !important;
-    background-color: #ffffff !important;
-  }
-
-  h1, h2, h3, h4, h5, h6,
-  .post-title,
-  .page-heading {
-    font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
-    font-weight: 600 !important;
-  }
-
-  a,
-  .site-title,
-  .site-nav .page-link {
-    color: #0969da !important;
-  }
-
-  a:hover,
-  .site-nav .page-link:hover {
-    color: #0550ae !important;
-    text-decoration: underline !important;
-  }
-
-  /* Category cards */
-  .category-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 1.5rem;
-    margin-top: 2rem;
-  }
-  .category-card {
-    display: block;
-    padding: 1.5rem;
-    border: 1px solid #e0e0e0 !important;
-    border-radius: 8px;
-    text-decoration: none;
-    color: inherit !important;
-    transition: box-shadow 0.2s;
-    background: #fff !important;
-  }
-  .category-card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  }
-  .category-card h2 {
-    margin: 0 0 0.5rem 0;
-    font-size: 1.2rem;
-  }
-  .category-card p {
-    margin: 0;
-    font-size: 0.9rem;
-    color: #666 !important;
-  }
-
-  /* Footer */
-  .site-footer {
-    padding: 1.5rem 0;
-    text-align: center;
-    font-size: 0.85rem;
-    color: #aaa !important;
-    border-top: 1px solid #e8e8e8 !important;
-    background: #fff !important;
-  }
-  .site-footer .footer-col-wrapper,
-  .site-footer .footer-col {
-    display: none;
-  }
-  .site-footer::after {
-    content: "© 2026 Rayeed Al Mutakabbir";
-    display: block;
-  }
-</style>
+<script>
+  (function() {
+    try {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      var theme = saved || (prefersDark ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+    } catch (e) {}
+  })();
+</script>
 
 <meta name="description" content="Reviews of neuroscience and bioinformatics papers by Rayeed Al Mutakabbir">
 <meta name="keywords" content="neuroscience, psychiatry, neuroeconomics, bioinformatics, academic blog">
 <meta name="author" content="Rayeed Al Mutakabbir">
+<meta name="theme-color" content="#080c14" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#faf8f5" media="(prefers-color-scheme: light)">
 {% seo %}
