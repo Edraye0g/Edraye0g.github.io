@@ -2,9 +2,9 @@
   <div class="wrapper">
     <div class="footer-grid">
       <div class="footer-brand">
-        <h3 class="footer-title">{{ site.title | escape }}</h3>
-        <p class="footer-description">{{ site.description | escape }}</p>
-        <p class="footer-author">By <strong>{{ site.author | escape }}</strong></p>
+        <h3 class="footer-title">{{ site.title | default: "Literature Reviews" | escape }}</h3>
+        <p class="footer-description">{{ site.description | default: "Academic blog reviewing papers in computational psychiatry, neuroscience, and bioinformatics" | escape }}</p>
+        <p class="footer-author">By <strong>{{ site.author | default: "Rayeed Al Mutakabbir" | escape }}</strong></p>
       </div>
 
       <div class="footer-nav-col">
@@ -20,18 +20,18 @@
       <div class="footer-nav-col">
         <h4>Topics</h4>
         <ul>
-          <li><a href="{{ "/neuroscience" | relative_url }}">Neuroscience</a></li>
-          <li><a href="{{ "/algorithm" | relative_url }}">Algorithms</a></li>
-          <li><a href="{{ "/complex" | relative_url }}">Complex Science</a></li>
-          <li><a href="{{ "/bioinformatics" | relative_url }}">Bioinformatics</a></li>
-          <li><a href="{{ "/unhinged" | relative_url }}">Unhinged Thoughts</a></li>
+          <li><a href="{{ "/neuroscience/" | relative_url }}">Neuroscience</a></li>
+          <li><a href="{{ "/algorithm/" | relative_url }}">Algorithms</a></li>
+          <li><a href="{{ "/complex/" | relative_url }}">Complex Science</a></li>
+          <li><a href="{{ "/bioinformatics/" | relative_url }}">Bioinformatics</a></li>
+          <li><a href="{{ "/unhinged/" | relative_url }}">Unhinged Thoughts</a></li>
         </ul>
       </div>
     </div>
 
     <div class="footer-bottom">
       <p class="footer-copyright">
-        © {{ 'now' | date: "%Y" }} {{ site.author | escape }}. Computational Psychiatry & Neuroscience Literature.
+        © {{ 'now' | date: "%Y" }} {{ site.author | default: "Rayeed Al Mutakabbir" | escape }}. Computational Psychiatry &amp; Neuroscience Literature.
       </p>
     </div>
   </div>
