@@ -20,19 +20,19 @@ permalink: /about/
 
     <div class="portfolio-socials">
       <a href="mailto:mutakabbirmra@gmail.com" class="social-btn">
-        <span>📧</span> Email
+        <span></span> Email
       </a>
       <a href="https://github.com/Edraye0g" target="_blank" rel="noopener noreferrer" class="social-btn">
-        <span>💻</span> GitHub
+        <span></span> GitHub
       </a>
       <a href="https://www.linkedin.com/in/rayeed-al-mutakabbir-24102315b/" target="_blank" rel="noopener noreferrer" class="social-btn">
-      <span>:globe_with_meridians:</span> LinkedIn
+      <span></span> LinkedIn
       </a>
       <a href="{{ "/posts" | relative_url }}" class="social-btn">
-        <span>📝</span> Reviews ({{ site.posts | size }})
+        <span></span> Reviews ({{ site.posts | size }})
       </a>
       <a href="{{ "/contact" | relative_url }}" class="social-btn">
-        <span>🤝</span> Contact
+        <span></span> Contact
       </a>
     </div>
   </div>
