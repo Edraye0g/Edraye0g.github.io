@@ -1,21 +1,53 @@
 <footer class="site-footer">
-  <div class="wrapper site-footer-wrapper">
-    <div class="footer-left">
-      <span>© {{ 'now' | date: "%Y" }} {{ site.author | default: "Rayeed Al Mutakabbir" }}</span>
-      <span class="footer-sep">·</span>
-      <span class="footer-subtext">Biomedical Engineering | Bioinformatics | Cognitive Science</span>
+  <div class="wrapper">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <h3 class="footer-title">{{ site.title | escape }}</h3>
+        <p class="footer-description">{{ site.description | escape }}</p>
+        <p class="footer-author">By <strong>{{ site.author | escape }}</strong></p>
+      </div>
+
+      <div class="footer-nav-col">
+        <h4>Navigation</h4>
+        <ul>
+          <li><a href="{{ "/" | relative_url }}">Home</a></li>
+          <li><a href="{{ "/posts" | relative_url }}">All Posts</a></li>
+          <li><a href="{{ "/about" | relative_url }}">About</a></li>
+          <li><a href="{{ "/contact" | relative_url }}">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-nav-col">
+        <h4>Topics</h4>
+        <ul>
+          <li><a href="{{ "/neuroscience" | relative_url }}">Neuroscience</a></li>
+          <li><a href="{{ "/algorithm" | relative_url }}">Algorithms</a></li>
+          <li><a href="{{ "/complex" | relative_url }}">Complex Science</a></li>
+          <li><a href="{{ "/bioinformatics" | relative_url }}">Bioinformatics</a></li>
+          <li><a href="{{ "/unhinged" | relative_url }}">Unhinged Thoughts</a></li>
+        </ul>
+      </div>
     </div>
-    <div class="footer-right">
-      <a href="https://github.com/Edraye0g" target="_blank" rel="noopener noreferrer">GitHub</a>
-      <span class="footer-sep">·</span>
-      <a href="#top" id="backToTopLink">Top ↑</a>
+
+    <div class="footer-bottom">
+      <p class="footer-copyright">
+        © {{ 'now' | date: "%Y" }} {{ site.author | escape }}. Computational Psychiatry & Neuroscience Literature.
+      </p>
     </div>
   </div>
 </footer>
 
+<!-- Floating Back to Top Button -->
+<button id="back-to-top" class="back-to-top" aria-label="Back to top" title="Back to top">
+  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="18 15 12 9 6 15"></polyline>
+  </svg>
+</button>
+
+<!-- Interactive Scripts: Theme Switcher, Reading Progress, and Back-to-Top -->
 <script>
   (function() {
-    // Theme toggle
+    // 1. Theme Switcher
     var toggleBtn = document.getElementById('theme-toggle');
     if (toggleBtn) {
       toggleBtn.addEventListener('click', function() {
@@ -29,11 +61,11 @@
       });
     }
 
-    // Reading progress bar
+    // 2. Reading Progress Bar
     var progressBar = document.getElementById('readingProgressBar');
-    function updateProgress() {
+    function updateReadingProgress() {
       if (!progressBar) return;
-      var scrollTop = window.pageYOffset || document.documentElement.scrollTop || 0;
+      var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
       var scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
       if (scrollHeight > 0) {
         var progress = (scrollTop / scrollHeight) * 100;
@@ -43,16 +75,35 @@
       }
     }
 
-    // Back to top link smooth scroll
-    var backToTop = document.getElementById('backToTopLink');
-    if (backToTop) {
-      backToTop.addEventListener('click', function(e) {
-        e.preventDefault();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+    // 3. Back to Top Button
+    var backToTopBtn = document.getElementById('back-to-top');
+    function updateBackToTop() {
+      if (!backToTopBtn) return;
+      var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+      if (scrollTop > 260) {
+        backToTopBtn.classList.add('visible');
+      } else {
+        backToTopBtn.classList.remove('visible');
+      }
+    }
+
+    if (backToTopBtn) {
+      backToTopBtn.addEventListener('click', function() {
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
       });
     }
 
-    window.addEventListener('scroll', updateProgress, { passive: true });
-    updateProgress();
+    // Passive scroll listener for smooth performance
+    window.addEventListener('scroll', function() {
+      updateReadingProgress();
+      updateBackToTop();
+    }, { passive: true });
+
+    // Initial run
+    updateReadingProgress();
+    updateBackToTop();
   })();
 </script>
