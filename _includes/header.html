@@ -2,9 +2,9 @@
 
 <header class="site-header" role="banner">
   <div class="wrapper site-header-wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
       <span class="site-logo-symbol">⟁</span>
-      <span class="site-title-text">{{ site.title | default: "Literature Reviews" | escape }}</span>
+      <span class="site-title-text">{{ site.title | default: 'Literature Reviews' | escape }}</span>
     </a>
 
     <nav class="site-nav">
@@ -18,10 +18,10 @@
       </label>
 
       <div class="trigger">
-        <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
-        <a class="page-link" href="{{ "/posts" | relative_url }}">Posts</a>
-        <a class="page-link" href="{{ "/about" | relative_url }}">About</a>
-        <a class="page-link" href="{{ "/contact" | relative_url }}">Contact</a>
+        <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+        <a class="page-link" href="{{ '/posts' | relative_url }}">Posts</a>
+        <a class="page-link" href="{{ '/about/' | relative_url }}">About</a>
+        <a class="page-link" href="{{ '/contact/' | relative_url }}">Contact</a>
 
         <!-- Dark/Light Theme Toggle -->
         <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle dark mode" title="Toggle theme (Light / Dark)">
