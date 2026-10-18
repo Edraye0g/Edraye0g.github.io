@@ -246,6 +246,7 @@ permalink: /about/
   <div class="timeline-period">Undergraduate Studies</div>
   <h3 class="timeline-title">Bachelor of Science in Biomedical Engineering (B.Sc. in BME)</h3>
   <div class="timeline-place">Khulna University of Engineering & Technology (KUET)</div>
+  <div class="timeline-period">Oct 2023 – Present</div>
   <p>
     Rigorous training covering biomedical instrumentation, neural engineering, physiological control systems, biomedical signal processing, biomaterials, and medical imaging systems.
   </p>
