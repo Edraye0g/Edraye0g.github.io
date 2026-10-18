@@ -344,6 +344,15 @@ a:hover {
   display: block;
 }
 
+.portfolio-avatar {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
 .post-list h3 {
   margin: 0;
   font-size: 1.15rem;
