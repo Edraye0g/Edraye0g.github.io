@@ -11,7 +11,7 @@ permalink: /about/
   </div>
   <div class="portfolio-hero-info">
     <h1 class="portfolio-name">Rayeed Al Mutakabbir</h1>
-    <div class="portfolio-role">Biomedical Engineering Undergraduate, Bioinformatics RA & Aspiring Cognitive Neuroscience Researcher</div>
+    <div class="portfolio-role">Biomedical Engineering Undergraduate & Bioinformatics Research Assistant</div>
     
     <div class="portfolio-status-pill">
       <span class="status-dot"></span>
@@ -26,7 +26,7 @@ permalink: /about/
         <span>💻</span> GitHub
       </a>
       <a href="https://www.linkedin.com/in/rayeed-al-mutakabbir-24102315b/" target="_blank" rel="noopener noreferrer" class="social-btn">
-        <span>:globe_with_meridians:</span> LinkedIn
+      <span>:globe_with_meridians:</span> LinkedIn
       </a>
       <a href="{{ "/posts" | relative_url }}" class="social-btn">
         <span>📝</span> Reviews ({{ site.posts | size }})
@@ -103,6 +103,35 @@ permalink: /about/
       <span class="skill-tag accent">Maximum Entropy</span>
       <span class="skill-tag accent">Graph Dynamics</span>
     </div>
+  </div>
+</div>
+
+<!-- Research Experience -->
+<h2 class="portfolio-section-heading"><span>🔬</span> Research Experience</h2>
+
+<div class="timeline-card">
+  <div class="timeline-dot"></div>
+  <div class="timeline-period">Feb 2026 – Present</div>
+  <h3 class="timeline-title">Undergraduate Research Assistant in Bioinformatics</h3>
+  <div class="timeline-place">Bioinformatics & Computational Biology Research</div>
+  <p>
+    Conducting computational research at the intersection of genomics, statistical data science, and biomedical machine learning, with focused applications in cancer genomics.
+  </p>
+  
+  <ul style="color: var(--text-secondary); margin-bottom: 1.25rem; line-height: 1.75; padding-left: 1.25rem;">
+    <li><strong>Hands-on Machine Learning for Cancer Genomics:</strong> Applied supervised and unsupervised machine learning algorithms to high-dimensional genomic datasets for molecular tumor subtyping, biomarker identification, and predictive feature modeling.</li>
+    <li><strong>Statistical Analysis & Data Science:</strong> Conducted comprehensive exploratory data analysis (EDA), hypothesis testing, normalization workflows, and differential gene expression analysis.</li>
+    <li><strong>Scientific Data Illustration:</strong> Designed publication-grade scientific visualizations, including heatmaps, volcano plots, PCA/t-SNE dimensionality reduction plots, and biological pathway diagrams.</li>
+    <li><strong>Research Paper Writing & Collaboration:</strong> Actively contributed to academic manuscript drafting, background literature synthesis, results interpretation, and collaborative workflows in a multidisciplinary research team.</li>
+  </ul>
+
+  <div class="tag-cloud">
+    <span class="skill-tag accent">Cancer Genomics</span>
+    <span class="skill-tag accent">Hands-on Machine Learning</span>
+    <span class="skill-tag">Statistical Analysis</span>
+    <span class="skill-tag">Data Illustration</span>
+    <span class="skill-tag">Research Paper Writing</span>
+    <span class="skill-tag">Collaborative Research</span>
   </div>
 </div>
 
