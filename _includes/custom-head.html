@@ -3,6 +3,34 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
 
 <style>
+  /* Global fonts and colors */
+  html, body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    font-size: 16px !important;
+    line-height: 1.7 !important;
+    color: #1f2328 !important;
+    background-color: #ffffff !important;
+  }
+
+  h1, h2, h3, h4, h5, h6,
+  .post-title,
+  .page-heading {
+    font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
+    font-weight: 600 !important;
+  }
+
+  a,
+  .site-title,
+  .site-nav .page-link {
+    color: #0969da !important;
+  }
+
+  a:hover,
+  .site-nav .page-link:hover {
+    color: #0550ae !important;
+    text-decoration: underline !important;
+  }
+
   /* Category cards */
   .category-grid {
     display: grid;
@@ -13,11 +41,12 @@
   .category-card {
     display: block;
     padding: 1.5rem;
-    border: 1px solid #e0e0e0;
+    border: 1px solid #e0e0e0 !important;
     border-radius: 8px;
     text-decoration: none;
-    color: inherit;
+    color: inherit !important;
     transition: box-shadow 0.2s;
+    background: #fff !important;
   }
   .category-card:hover {
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
@@ -29,7 +58,7 @@
   .category-card p {
     margin: 0;
     font-size: 0.9rem;
-    color: #666;
+    color: #666 !important;
   }
 
   /* Footer */
@@ -37,8 +66,9 @@
     padding: 1.5rem 0;
     text-align: center;
     font-size: 0.85rem;
-    color: #aaa;
-    border-top: 1px solid #e8e8e8;
+    color: #aaa !important;
+    border-top: 1px solid #e8e8e8 !important;
+    background: #fff !important;
   }
   .site-footer .footer-col-wrapper,
   .site-footer .footer-col {
