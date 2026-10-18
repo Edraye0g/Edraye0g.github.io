@@ -250,7 +250,17 @@ permalink: /about/
   <p>
     Rigorous training covering biomedical instrumentation, neural engineering, physiological control systems, biomedical signal processing, biomaterials, and medical imaging systems.
   </p>
+  <div class="timeline-dot"></div>
+  <div class="timeline-period">Higher Secondary Education</div>
+  <h3 class="timeline-title">HSC, Passed with GPA-5</h3>
+  <div class="timeline-place">Saint Joseph Higher Secondary School, Asad Gate, Dhaka</div>
+  <div class="timeline-period">2020-2022</div>
 </div>
+<div class="timeline-dot"></div>
+  <div class="timeline-period">Secondary Education</div>
+  <h3 class="timeline-title">SSC, Passed with GPA-5</h3>
+  <div class="timeline-place">Ideal School and College, Motijhil, Dhaka</div>
+  <div class="timeline-period">2016-2020</div>
 
 <!-- Collaboration CTA -->
 <div class="portfolio-cta-card">
