@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Algorithm
+title: Algorithms
+permalink: /algorithm/
 ---
 
 {% assign posts = site.categories.algorithm %}
 {% for post in posts %}
-  <article>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.date | date: "%b %d, %Y" }}</p>
+  <article class="post-preview-card">
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}</p>
   </article>
 {% endfor %}
