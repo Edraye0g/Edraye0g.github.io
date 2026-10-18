@@ -1,4 +1,13 @@
 theme: minima
+minima:
+  skin: auto
+  date_format: "%Y-%m-%d"
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/Edraye0g"
+  show_excerpts: true
+
 header_pages:
   - about.md
   - contact.md
@@ -7,6 +16,9 @@ header_pages:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
 title: "Literature Reviews"
 description: "Academic blog reviewing papers in computational psychiatry, neuroscience, and bioinformatics"
 author: "Rayeed Al Mutakabbir"
+url: "https://edraye0g.github.io"
+baseurl: ""
