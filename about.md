@@ -8,7 +8,6 @@ permalink: /about/
 <div class="portfolio-hero">
   <div class="portfolio-avatar-wrapper">
     <img src="/assets/Al Mutakabbir,M. R.jpg" alt="Rayeed Al Mutakabbir" class="portfolio-avatar-img" onerror="this.style.display='none'; document.getElementById('avatar-fallback').style.display='flex';" />
-    <div id="avatar-fallback" class="portfolio-avatar-monogram" style="display: none;">RM</div>
   </div>
   <div class="portfolio-hero-info">
     <h1 class="portfolio-name">Rayeed Al Mutakabbir</h1>
