@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: "How being an expert means?"
+date: 2026-10-29
+categories: complex
 ---
 
 Human brain generally looks for pattern. Nash Equilibrium states that any extent of randomness in human works is not random at all. However, experts in any field, in any domain fails to articulate such expertise due to lack of cognitive understanding. And, due to lack of answer of how an expert pulls such tricks, any type of expertise seems unreachable for novices. That is why research was published named [Reverse‑engineering expert similarity judgments: evidence from chess tactics]() this year. This paper used chess as an evaluating tool for understanding how human expert naturally looks for winner in the board. 
