@@ -1,14 +1,21 @@
---- 
+---
 layout: page
 title: "Contact"
+permalink: /contact/
 ---
 
-## Get in Touch
-I’d love to hear from fellow researchers, students, or anyone curious about neuroscience and decision science.
+# Contact
 
--  Email: mutakabbirmra@gmail.com 
--  GitHub: [Rayeed Al Mutakabbir](https://github.com/Edraye0g)
--  Blog: [Substack](https://substack.com/@r4yeed?utm_source=user-menu)
--  Facebook: [Rayeed Al Mutakabbir](https://www.facebook.com/the.EdRaye2og)
+I welcome correspondence from fellow researchers, students, and collaborators interested in computational psychiatry, neuroscience, and bioinformatics.
 
-Feel free to reach out for collaboration, discussion, or feedback on my reviews.
+<div class="portfolio-socials" style="margin-top: 1.5rem;">
+  <a href="mailto:mutakabbirmra@gmail.com" class="social-btn primary-btn">
+    <span>📧</span> Email Me
+  </a>
+  <a href="https://github.com/Edraye0g" target="_blank" rel="noopener noreferrer" class="social-btn">
+    <span>💻</span> GitHub Profile
+  </a>
+  <a href="https://www.facebook.com/the.EdRaye2og" class="social-btn">
+    <span>📡</span> Facebook
+  </a>
+</div>
