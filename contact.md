@@ -3,8 +3,6 @@ layout: page
 permalink: /contact/
 ---
 
-# Contact
-
 I welcome correspondence from fellow researchers, students, and collaborators interested in computational psychiatry, neuroscience, and bioinformatics.
 
 <div class="portfolio-socials" style="margin-top: 1.5rem;">
