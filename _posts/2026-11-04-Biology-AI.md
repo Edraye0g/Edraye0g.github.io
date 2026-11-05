@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Biology and AI"
+date: 2026-11-04
+categories: complex
+---
 
 If you are introduced to complexity science, you would understand that complex concepts are not product driven but process-driven. It means without a particular avalanche of area the process covered, the result we might want is near impossible. The difference between physics and biological system is just like that. Physics equations are product based. Scientists found the underlying equation, made some true boundary conditions and that's that. It works simply and every single time with little to no error at all. However, the difference with that to a biological system is here. The variability is massive. If we dive deeper into the biological system, we will find complexity science as the core mechanism. 
 
